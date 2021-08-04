@@ -1,6 +1,7 @@
 Vastavat koodi kasutatakse keeleressursside serveris sõnade kohta info kuvamiseks.
 
 Kood on mõeldud tagarakendusena töötamiseks veebilaiendusele, mis loodi "Veebilaiendus eesti keele sõnavara õppija abistamiseks" töö käigus.
+Vastav laiendus on leitav repositooriumis mis asub aadressil https://github.com/Hansurm/estonian-voc-extension
 
 Koodi tööd saab testida aadressil "http://prog.keeleressursid.ee/psvchromeextension/test.php?word={argument}", kui asendada URL-i lõpus leiduv "{argument}" soovitud uuritava sõnaga.
 
